@@ -3,6 +3,14 @@
 I will delete this repository
 
 
+## What I want
+
+I would like my own "dropbox".
+
+* share file with Windows user
+* add user with his password
+
+
 ## set up
 
 1. set up a FTP
